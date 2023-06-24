@@ -2,7 +2,7 @@
 ```js
 const caico1418 = {
   pronouns: "he" | "him",
-  code: [Java, Python, Go, HTML, CSS, JS],
+  code: [Java, Python, Go, HTML, CSS, JavaScript],
   tools: [Node, React, Docker],
 }
 ´´´
