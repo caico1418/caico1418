@@ -26,19 +26,9 @@
 <table>
 <tbody>
  <tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"> 
-</td>
-
-</td>
+ <td align="center" width="50%">
+  <img height="60px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
+ </td>
 
 </tr>
 
