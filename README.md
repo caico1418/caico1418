@@ -25,15 +25,6 @@ Me apasiona construir soluciones digitales robustas y escalables. Mi enfoque pri
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=caico1418&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caico1418&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
----
-
 ## 🤝 Conectemos
 - 💼 LinkedIn: [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
 - 📧 Email: glez77104@gmail.com
