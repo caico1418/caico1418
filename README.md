@@ -1,51 +1,46 @@
-### I'm Edgar Gonzalez 😎
-<img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+# ¡Hola! Soy Edgar Gonzalez 👋
 
-### My skills 💻
-- **Competitive Coding**
-<table>
-<tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
+### 🚀 Full Stack Developer en constante aprendizaje
 
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
-</td>
+Me apasiona construir soluciones digitales robustas y escalables. Mi enfoque principal está en el ecosistema de **JavaScript/TypeScript**, pero siempre tengo un script de **Python** listo para automatizar el mundo.
 
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/golang/golang-official.svg">
-  Golang 
-</td>
-</tr>
-</tbody>
-</table>
+---
 
-- **Web Development**
-<table>
-<tbody>
- <tr>
- <td align="center" width="50%">
-  <img height="60px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
- </td>
+## 🛠️ Mi Stack Tecnológico
 
-</tr>
+### **Frontend**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### **Backend & Tools**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
- 
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> 
-</td>
+### **Bases de Datos**
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
-</td>
-<tr>
- 
- </tr>
-</tbody>
-</table>
+---
 
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=caico1418&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caico1418&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+## 🤝 Conectemos
+- 💼 LinkedIn: [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
+- 📧 Email: glez77104@gmail.com
+
+---
+
+### ⚡ Datos curiosos
+- 🔭 Actualmente trabajando en: **Foxconn**
+- 🌱 Aprendiendo: **Nuevos patrones de diseño en Backend**
+- 💬 Pregúntame sobre: **React, Express y por qué amo el tipado fuerte.**
