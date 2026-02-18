@@ -27,7 +27,7 @@ Me apasiona construir soluciones digitales robustas y escalables. Mi enfoque pri
 ---
 
 ## 🤝 Conectemos
-- 💼 LinkedIn: [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
+- 💼 LinkedIn: [linkedin.com/in/edgar-eduardo-gonzalez-cisneros](https://www.linkedin.com/in/edgar-eduardo-gonzalez-cisneros/)
 - 📧 Email: glez77104@gmail.com
 
 ---
