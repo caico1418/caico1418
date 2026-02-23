@@ -36,3 +36,4 @@ Me apasiona construir soluciones digitales robustas y escalables. Mi enfoque pri
 - 🔭 Actualmente trabajando en: **Foxconn**
 - 🌱 Aprendiendo: **Nuevos patrones de diseño en Backend**
 - 💬 Pregúntame sobre: **React, Express y por qué amo el tipado fuerte.**
+......
